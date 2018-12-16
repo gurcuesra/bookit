@@ -13,7 +13,7 @@ exports.config ={
         }
     },
 
-    specs:['../Tests/spec.js'],
+    specs:['../Tests/HomePage.spec.js'],
 
     onPrepare:function(){
         // browser.manage().window().maximize();
